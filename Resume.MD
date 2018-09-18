@@ -66,3 +66,4 @@ SPC俱乐部的经历让我学会如何分享自己的知识与理念，运营�
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
+网页版简历地址：https://myuan23.github.io/Resume/Resume.html
