@@ -3,6 +3,7 @@
 - 硕士/莫纳什大学 （信息技术） Monash University （Information Technology）
 - 期望职位：产品经理 产品策划
 - 期望城市：成都 上海 深圳
+- 出生日期：1991 03 23
 - 手机：199 5037 1157
 - Email：ys0323@gmail.com
 
